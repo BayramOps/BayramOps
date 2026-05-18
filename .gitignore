@@ -1,0 +1,28 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Node
+node_modules/
+
+# Secrets
+*.pem
+*.key
