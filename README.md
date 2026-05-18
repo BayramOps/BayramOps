@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Bayram Barak
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=DevOps+Intern;Fachinformatiker+Systemintegration;Linux+%7C+Docker+%7C+Kubernetes" />
+</p>
+
 ## 🧑‍💻 About Me
 I am currently training as a **Fachinformatiker for System Integration** and working as a **DevOps Intern at Optiop GmbH**.
 
@@ -43,9 +47,3 @@ My focus is on infrastructure, automation, and building reliable systems in prod
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BayramOps&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayramOps&layout=compact" height="150"/>
-</p>
