@@ -5,19 +5,9 @@
 </p>
 
 ## 🧑‍💻 About Me
-I am currently training as a **Fachinformatiker for System Integration** and working as a **DevOps Intern at Optiop GmbH**.
+I am currently training as a **Fachinformatiker for System Integration**.
 
 My focus is on infrastructure, automation, and building reliable systems in production environments.
-
----
-
-## 🚀 Current Role
-
-### DevOps Intern @ Optiop GmbH
-- Working on CI/CD pipelines and deployment automation
-- Supporting cloud infrastructure and system operations
-- Improving monitoring, reliability, and system performance
-- Collaborating with developers and IT teams
 
 ---
 
